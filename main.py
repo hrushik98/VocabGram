@@ -106,8 +106,8 @@ d.text(example_position, "Example: " + example_sentence, fill=text_color, font=e
 # Display the image
 new.save("image.jpg")
 
-username = "dailywordguru"
-password = "Phani890"
+username = ""
+password = ""
 
 cl = Client()
 cl.login(username, password)
